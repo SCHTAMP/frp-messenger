@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "scripts": {
+    "dev": "bun --watch index.ts",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "@elysiajs/cors": "^1.2.0",
+    "@elysiajs/swagger": "^1.2.0",
+    "@types/bun": "^1.1.14",
+    "elysia": "^1.2.9"
+  }
+}

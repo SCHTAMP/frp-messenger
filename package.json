@@ -1,0 +1,5 @@
+{
+  "name": "frp_messenger",
+  "private": true,
+  "workspaces": ["packages/*"]
+}

@@ -1,0 +1,13 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "frp_messenger\\packages\\backend\\",
+            "color": "foldercolorizer.color_006699"
+        },
+        {
+            "folderPath": "frp_messenger\\packages\\frontend\\",
+            "color": "foldercolorizer.color_99cc33",
+            "badge": "🖥️"
+        }
+    ]
+}
